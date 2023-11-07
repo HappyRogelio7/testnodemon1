@@ -1,6 +1,6 @@
 {
     "watch": [
-        "server-nodemon.js",
+        "run_nodemon.js",
         "code/index.js"
     ],
     "execMap": {
