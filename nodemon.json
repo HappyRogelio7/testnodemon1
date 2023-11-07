@@ -1,0 +1,12 @@
+{
+    "watch": [
+        "server-nodemon.js",
+        "code/index.js"
+    ],
+    "execMap": {
+        "js": "node"
+    },
+    "ext": "js json",
+    "delay": "21600000",
+    "exitcrash": true
+}
